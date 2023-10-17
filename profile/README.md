@@ -7,9 +7,9 @@ https://github.com/Javscript-Dom/Create-Element
 
 <br/>
 
-## 1 - Chenge Theme
+## 2 - Chenge Theme
 
-https://github.com/Javscript-Dom/Create-Element
+https://github.com/Javscript-Dom/Change-Theme
 <br/>
 <br/>
 <div>
